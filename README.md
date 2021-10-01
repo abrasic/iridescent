@@ -12,8 +12,8 @@ Are you a modeller? Animator? Rigger? Developer? Iridescent is for you!
 4. Choose `Iridescent1.x.x` from the themes dropdown and enjoy!
 
 ## Example Screenshots
-![Main](/samples/main.png)
-![Edit Mode](/samples/edit.png)
-![Nodes](/samples/nodes.png)
-![Video Sequencer](/samples/vidseq.png)
+![Main](/samples/3dviewport.png)
+![Edit Mode](/samples/uv_editor.png)
+![Nodes](/samples/shadereditor.png)
+![Video Sequencer](/samples/animation.png)
 ![Scripting](/samples/scripting.png)
