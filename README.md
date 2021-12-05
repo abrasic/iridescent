@@ -1,7 +1,7 @@
 # Iridescent
-Modern Blender theme for 2.9 & 3.0
+Modern Blender theme for 3.0
 
-### [Download Theme (v1.3.1, Blender 2.93.0 and higher)](https://github.com/abrasic/iridescent/releases/download/1.3.1/Iridescent1.3.1.zip)
+### [Download Theme (v1.4.0 for Blender 3.0.0)](https://github.com/abrasic/iridescent/releases/download/1.4.0/Iridescent1.4.0.zip)
 
 ### ❗ This theme is still under development, element colors may change over time. You are welcome to modify elements throughout the theme as you desire, so long as you credit this repo. You are also welcome to propose your changes to the theme in a pull request.
 
