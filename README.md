@@ -1,14 +1,14 @@
 # Iridescent
 Modern Blender theme for 3.0
 
-### [Download Theme (v1.4.0 for Blender 3.0.0)](https://github.com/abrasic/iridescent/releases/download/1.4.0/Iridescent1.4.0.zip)
+### [Download Theme (v1.4.0 for Blender 3.0.0)](https://github.com/abrasic/iridescent/releases/download/1.4.0/Iridescent1.4.zip)
 
 ### ❗ This theme is still under development, element colors may change over time. You are welcome to modify elements throughout the theme as you desire, so long as you credit this repo. You are also welcome to propose your changes to the theme in a pull request.
 
 **Iridescent** aims for **creative simplicity**. We offer a uniquely **smooth, sharp and modern** experience throghout the entire Blender software; no matter what you use it for.
 
 ## Installing the Theme
-1. [Download the theme](https://github.com/abrasic/iridescent/releases/download/1.3.1/Iridescent1.3.1.zip) and extract the .zip file.
+1. [Download the theme](https://github.com/abrasic/iridescent/releases/download/1.4.0/Iridescent1.4.zip) and extract the .zip file.
 2. Open Blender and go to `Edit > Preferences > Themes > Install...`
 3. When prompted, select the `.xml` file from the extracted `.zip`.
 4. Choose `Iridescent1 x x` from the themes dropdown and enjoy!
